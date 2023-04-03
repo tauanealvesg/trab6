@@ -1,0 +1,71 @@
+.body {
+    margin: auto;
+    background-image: url(/src/img/20230330_111342_0000.png);
+    display: flex;
+    flex-direction: column;
+
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 40px;
+}
+
+h2 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 22px;
+    text-align: center;
+    line-height: 32px;
+}
+
+h3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.calendario {
+    padding: 20px 0;
+    width: 100%;
+    margin: auto;
+    padding: 20px;
+}
+
+
+.servicos {
+    padding: 20px 0;
+    width: 70%;
+    margin: auto;
+    
+}
+
+.links{
+    width: 70%;
+    margin: auto;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
+a {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+    filter: invert(80%);
+}

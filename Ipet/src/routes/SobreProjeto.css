@@ -1,0 +1,16 @@
+
+.card-texto{
+background-image: url(/src/img/20230330_111342_0000.png);
+height: 95vh;
+display: flex;
+align-items: center;
+}
+
+.texto{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content: center;
+}
+  
+
